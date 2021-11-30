@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Amankumar017
 - 👀 I’m interested in coding,web development
-- 🌱 I’m currently learning DSA in C++
 - 📫 you can reach me -
                   email-amankumar16102@gmail.com
 
