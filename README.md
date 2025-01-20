@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amankumar017
-- 👀 Interested in problem solving, full stack web devlopement and currently working on Machine learning
+- 👀 Interested in problem solving, Software Development and full stack web devlopement
 - 📫 Reach me at amankumar16102@gmail.com
 - 🏞️ Visit [nithblog.netlify.app](https://nithblog.netlify.app/)
 - 💓 Heart [hindisamiti.netlify.app](https://hindisamitinith.netlify.app/)
